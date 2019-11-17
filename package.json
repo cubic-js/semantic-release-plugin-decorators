@@ -1,6 +1,6 @@
 {
   "name": "@kaptard/semantic-release-plugin-decorators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "repository": "https://github.com/cubic-js/semantic-release-plugin-decorators",
   "scripts": {
