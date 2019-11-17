@@ -1,8 +1,8 @@
 {
-  "name": "semantic-release-plugin-decorators",
-  "version": "0.0.0-development",
+  "name": "@kaptard/semantic-release-plugin-decorators",
+  "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "git@github.com:Updater/semantic-release-plugin-decorators.git",
+  "repository": "https://github.com/cubic-js/semantic-release-plugin-decorators",
   "scripts": {
     "format": "prettier --write --single-quote --trailing-comma es5",
     "format:all": "yarn format \"./**/*.js\"",
